@@ -13,6 +13,7 @@
                   {
                       "File": "motions/招手.motion3.json"
                   }
+				 }
     
         "Expressions": [
             {
@@ -44,5 +45,5 @@
                 "File": "瞳孔缩小.exp3.json"
             }
     ]
-  },
-}
+  }
+
