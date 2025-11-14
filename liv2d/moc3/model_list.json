@@ -1,7 +1,7 @@
 {
     "models": [
         ["阿库露_vts"],
-        ["Mao"， "Rice", "Hiyori", "Haru" ]
+        ["Mao", "Rice", "Hiyori", "Haru"]
     ],
     "messages": [
         "你好，这里是阿库露——vts！",
