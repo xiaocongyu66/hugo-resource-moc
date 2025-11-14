@@ -7,7 +7,7 @@
 			"阿库露_vts.4096/texture_01.webp"
 		],
 		"Physics": "阿库露_vts.physics3.json",
-		"DisplayInfo": "阿库露_vts.cdi3.json",  
+		"DisplayInfo": "阿库露_vts.cdi3.json",
         "Expressions": [
             {
                 "Name": "ddl",
@@ -41,7 +41,8 @@
                 "Name": "oxz",
                 "File": "exp/O形嘴.exp3.json"
             }
-        ],
+    ],
+    
         "Motions": {
 			"TapBody": [
 				{
@@ -50,7 +51,8 @@
 			]
 		}
 	},
-    "Groups": [
+  
+        "Groups": [
 		{
 			"Target": "Parameter",
 			"Name": "EyeBlink",
@@ -61,8 +63,8 @@
 			"Name": "LipSync",
 			"Ids": []
 		}
-	],
-	"HitAreas": [
+	         ],
+	    "HitAreas": [
 		{
 			"Id": "HitAreaHead",
 			"Name": "Head"
@@ -71,5 +73,5 @@
 			"Id": "HitAreaBody",
 			"Name": "Body"
 		}
-	]
-}
+	 ]
+  }
