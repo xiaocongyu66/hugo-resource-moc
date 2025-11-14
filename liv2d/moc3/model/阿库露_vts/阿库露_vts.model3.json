@@ -9,11 +9,12 @@
 		"Physics": "阿库露_vts.physics3.json",
 		"DisplayInfo": "阿库露_vts.cdi3.json"
 		"Motions": {
-             "TapBody": [
-                  {
-                      "File": "motions/招手.motion3.json"
-                  },
-				 },
+			"TapBody": [
+				{
+					"File": "motions/招手.motion3.json"
+				}
+			]
+		}
     
         "Expressions": [
             {
@@ -42,8 +43,38 @@
             },
             {
                 "Name": "tkss",
-                "File": "瞳孔缩小.exp3.json"
+                "File": "exp/瞳孔缩小.exp3.json"
+            }
+            {
+                "Name": "oxz",
+                "File": "exp/O形嘴.exp3.json"
             }
     ]
-  }
+  
+        "Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	         ],
+	    "HitAreas": [
+		{
+			"Id": "HitAreaHead",
+			"Name": "Head"
+		},
+		{
+			"Id": "HitAreaBody",
+			"Name": "Body"
+		}
+	 ]
+  },
+}
+
+
 
