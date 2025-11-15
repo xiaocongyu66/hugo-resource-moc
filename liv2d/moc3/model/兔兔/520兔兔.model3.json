@@ -3,9 +3,9 @@
 	"FileReferences": {
 		"Moc": "520兔兔.moc3",
 		"Textures": [
-			"520兔兔.4096/texture_00.png",
-			"520兔兔.4096/texture_01.png",
-			"520兔兔.4096/texture_02.png"
+			"520兔兔.4096/texture_00.webp",
+			"520兔兔.4096/texture_01.webp",
+			"520兔兔.4096/texture_02.webp"
 		],
 		"Physics": "520兔兔.physics3.json",
 		"DisplayInfo": "520兔兔.cdi3.json",
