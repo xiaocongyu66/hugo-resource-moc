@@ -1,10 +1,12 @@
 {
     "models": [
         ["Mao", "Rice", "Hiyori", "Haru"],
-        ["阿库露_vts"]   
+        ["阿库露_vts"],   
+        ["兔兔"]   
     ],
     "messages": [
         ["你好，我是Mao", "你好，我是Rice", "你好，我是Hiyori", "你好，我是Haru"],
         ["哈喽，这里是阿库露_vts"],
+        ["哈喽，这里是兔兔"]           
     ]
 }
