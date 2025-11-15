@@ -8,7 +8,7 @@
 		],
 		"Physics": "llny.physics3.json",
 		"DisplayInfo": "llny.cdi3.json"
-	    "Expressions": [
+		"Expressions": [
             {
                 "Name": "any",
                 "File": "exp/阿尼亚.exp3.json"
@@ -61,7 +61,8 @@
                 "Name": "yt",
                 "File": "exp/外套.exp3.json"
             }
-    ],
+    ]
+	},
 	"Groups": [
 		{
 			"Target": "Parameter",
