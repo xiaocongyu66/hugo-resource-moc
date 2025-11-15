@@ -3,12 +3,12 @@
 	"FileReferences": {
 		"Moc": "llny.moc3",
 		"Textures": [
-			"llny.4096/texture_00.webp",
-			"llny.4096/texture_01.webp"
+			"llny.4096/texture_00.png",
+			"llny.4096/texture_01.png"
 		],
 		"Physics": "llny.physics3.json",
 		"DisplayInfo": "llny.cdi3.json"
-		"Expressions": [
+	    "Expressions": [
             {
                 "Name": "any",
                 "File": "exp/阿尼亚.exp3.json"
@@ -71,7 +71,7 @@
 			]
 		}
 	},
-        "Groups": [
+	"Groups": [
 		{
 			"Target": "Parameter",
 			"Name": "EyeBlink",
@@ -85,5 +85,5 @@
 			"Name": "LipSync",
 			"Ids": []
 		}
-	 ]
-  }
+	]
+}
