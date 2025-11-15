@@ -62,15 +62,6 @@
                 "File": "exp/外套.exp3.json"
             }
     ],
-    
-        "Motions": {
-			"TapBody": [
-				{
-					"File": "motions/idel.motion3.json"
-				}
-			]
-		}
-	},
 	"Groups": [
 		{
 			"Target": "Parameter",
