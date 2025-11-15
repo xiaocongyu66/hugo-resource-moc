@@ -85,14 +85,5 @@
 			"Name": "LipSync",
 			"Ids": []
 		}
-        "HitAreas": [
-		{
-			"Id": "HitAreaHead",
-			"Name": "Part9"
-		},
-		{
-			"Id": "HitAreaBody",
-			"Name": "Part26"
-		}
 	 ]
   }
